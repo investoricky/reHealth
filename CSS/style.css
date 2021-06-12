@@ -144,7 +144,7 @@
     .re-text {
         color: #000;
     }
-    .btn {
+    .btn, .rehealth-wrap {
         margin-top: 10px !important;
     }
     .lorem {
@@ -153,10 +153,19 @@
     }
     .back-color, .back-color1, .back-color2, .back-color3 {
         border-radius: 10px;
+        box-shadow: 0px 10px 15px #8080808c;
     }
     .slideInLeft, .drug-card, .recent-blog-body, .rehealth-wrap, .lady-wrap {
         border: 1px solid #80808021;
         border-radius: 10px;
+        box-shadow: 0px 10px 15px #80808046;
+    }
+    .doctor-image {
+        border-radius: 10px;
+    }
+    .bgcolor {
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
     }
     .card-title {
         padding-top: 20px !important;
