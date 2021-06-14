@@ -153,12 +153,12 @@
     }
     .back-color, .back-color1, .back-color2, .back-color3 {
         border-radius: 10px;
-        box-shadow: 0px 10px 15px #8080808c;
+        box-shadow: 0px 0px 5px #808080b0;
     }
     .slideInLeft, .drug-card, .recent-blog-body, .rehealth-wrap, .lady-wrap {
         border: 1px solid #80808021;
         border-radius: 10px;
-        box-shadow: 0px 10px 15px #80808046;
+        box-shadow: 0px 0px 5px #80808046;
     }
     .doctor-image {
         border-radius: 10px;
